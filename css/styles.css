@@ -176,7 +176,7 @@ footer {
 
     .navbar-header > .navbar-brand {
         color: rgba(255,255,255,0.7);
-        padding: 19px;
+        padding: 10px 15px;
     }
 
     .navbar-default .navbar-header .navbar-brand:hover,
@@ -187,7 +187,7 @@ footer {
     .navbar-default .nav > li>a,
     .navbar-default .nav>li>a:focus {
         color: rgba(255,255,255,0.8);
-        padding: 20px;
+        padding: 50px 15px;
         letter-spacing: 1.1px;
         text-shadow: 1px 1px 1px rgba(60,60,60,0.7);
     }
@@ -522,5 +522,6 @@ img::-moz-selection {
     color: #fff;
     background: 0 0;
 }
+
 
 
