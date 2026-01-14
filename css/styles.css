@@ -525,3 +525,34 @@ img::-moz-selection {
 
 
 
+
+/* About movie section */
+
+.about-movie {
+    padding: 0;
+    background-color: #282828;
+}
+
+.about-banner {
+    width: 100%;
+    height: 600px;
+    background-image: url("webbanner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.about-movie .container {
+    padding: 80px 15px;
+}
+
+.about-movie h2 {
+    margin-bottom: 40px;
+}
+
+.about-movie p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #d3d3d3;
+    margin-bottom: 25px;
+}
