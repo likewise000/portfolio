@@ -535,12 +535,15 @@ img::-moz-selection {
 
 .about-banner {
     width: 100%;
-    height: 600px;
-    background-image: url("../webbanner.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
+    text-align: center;
     background-color: #000;
+}
+
+.about-banner img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .about-movie .container {
@@ -557,5 +560,6 @@ img::-moz-selection {
     color: #d3d3d3;
     margin-bottom: 25px;
 }
+
 
 
