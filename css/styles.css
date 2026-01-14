@@ -171,7 +171,7 @@ footer {
     .navbar-default {
         border-color: transparent;
         background-color: transparent;
-        min-height: 60px;
+        min-height: 120px;
     }
 
     .navbar-header > .navbar-brand {
@@ -522,4 +522,5 @@ img::-moz-selection {
     color: #fff;
     background: 0 0;
 }
+
 
